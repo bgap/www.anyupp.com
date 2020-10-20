@@ -6,7 +6,7 @@ ios_app_id                                : 1345720722                          
 
 appstore_link                             : https://apps.apple.com/us/app/battle-strike-force/id1345720722
 playstore_link                            : https://play.google.com/store/apps/details?id=com.beyondgames.battlestrikeforce1
-presskit_download_link                    : https://emilbaehr.com                     # Enter a link to downloadable file or (e.g. public Dropbox link to a .zip file). 
+presskit_download_link                    : 
                                                                                       # Or upload your press kit file to assets and set path accordingly (e.g. "assets/your_press_kit.zip").
 
 app_icon                                  : # assets/appicon.png                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
