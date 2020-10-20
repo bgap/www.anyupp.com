@@ -2,10 +2,10 @@
 page_title                                : AnyUpp
 
 # App Info
-ios_app_id                                : 1345720722                                # Required. Enter iOS app ID to automatically populate name, price and icons (e.g. 718043190).
+ios_app_id                                : 1214718958
 
-appstore_link                             : https://apps.apple.com/us/app/battle-strike-force/id1345720722
-playstore_link                            : https://play.google.com/store/apps/details?id=com.beyondgames.battlestrikeforce1
+appstore_link                             : https://apps.apple.com/hu/app/geol%C3%A1d%C3%A1k/id1214718958?l=hu
+playstore_link                            : https://play.google.com/store/apps/details?id=com.tamaspetro.geocachinghu&hl=hu
 presskit_download_link                    : 
                                                                                       # Or upload your press kit file to assets and set path accordingly (e.g. "assets/your_press_kit.zip").
 
